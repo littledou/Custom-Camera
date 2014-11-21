@@ -26,6 +26,7 @@ public class MainActivity extends Activity implements TakenpicInterface,OnClickL
 
 	/**
 	 * 手机信息，包括宽高
+	 * ss
 	 */
 	//预览界面
 	private CafeSurfaceView camera_surface;
